@@ -5,7 +5,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "haskell.haskell"
+                "formulahendry.code-runner"
             ]
         }
     }
